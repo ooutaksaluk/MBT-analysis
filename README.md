@@ -1,7 +1,6 @@
 # MBT-analysis
 march9
 
-
 โปรเจกต์นี้ใช้ YOLO ในการตรวจจับ Sight และ Mantlet บนภาพ และเชื่อมต่อกับ Anvil เพื่อใช้งานผ่านเว็บ
 วิธีใช้
 เปิดใช้งาน google colab (MBT-analysis) และรันโค้ด
